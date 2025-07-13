@@ -1,0 +1,83 @@
+# ========== Unity Generated Folders ==========
+[Ll]ibrary/
+[Ll]ibrary/PackageCache/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+
+# ========== Unity Asset Bundles & Addressables ==========
+*.unitypackage
+*.bundle
+*.addressables
+
+# ========== Crash Reports & Debugging ==========
+sysinfo.txt
+*.stacktrace
+*.pidb
+*.svd
+*.pdb
+*.mdb
+
+# ========== OS/Editor-Specific ==========
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+
+# ========== JetBrains Rider ==========
+.idea/
+*.sln.iml
+*.dotCover
+
+# ========== Visual Studio ==========
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.vscode/
+
+# ========== Rider & VS Code Specific ==========
+.vscode/
+.idea/
+*.code-workspace
+
+# ========== Unity Collaborate ==========
+.collabignore
+.collab/
+
+# ========== Unity Cloud Build ==========
+/[Uu]ser[Ss]ettings/UnityConnectSettings.asset
+
+# ========== Auto-generated meta files ==========
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ========== Build Artifacts ==========
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.ipa
+*.exe
+
+# ========== Others ==========
+*.orig
+*.rej
+*.log
+
+# ========== Git Ignore Exceptions (if needed) ==========
+!Assets/
+!ProjectSettings/

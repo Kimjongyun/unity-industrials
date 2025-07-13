@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fb2b238a937afa1449e9cfd998811200
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainVideoPlayer: {instanceID: 0}
+  - firMove01Clip: {fileID: 32900000, guid: c6ba266d24bbb8249b1f3f130d2ab7a7, type: 3}
+  - skyboxVideoPlayer: {instanceID: 0}
+  - firMove02Clip: {fileID: 32900000, guid: 41ecefd5550aeef4da186179a4a39c9c, type: 3}
+  - dialoguePanel: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - powerPlugUI: {instanceID: 0}
+  - nextStageArrow1: {instanceID: 0}
+  - nextStageArrow2: {instanceID: 0}
+  - powerPlugObject: {instanceID: 0}
+  - cushionObject: {instanceID: 0}
+  - vibrationManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
